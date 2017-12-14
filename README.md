@@ -1,4 +1,4 @@
-# Persistate
+# <img src="logo/logo.png" /> Persistate
 
 Persistate lets you create a simple persistent state that you can subscribe to.
 It is similar to the state of React components.
