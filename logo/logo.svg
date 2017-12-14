@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 100 100">
+    <path
+        d="M100,10 Q80,55 90,100 Q45,80 0,90 Q20,45 10,0 Q55,20 100,10"
+        style="fill: #279292;"
+    />
+    <path
+        d="M20,80 L40,40 L55,45 L80,20 L60,60 L45,55 Z"
+        stroke-linejoin="round"
+        style="stoke-width: 0; stroke: none; fill: #ffd07b;"
+    />
+</svg>
