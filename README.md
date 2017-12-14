@@ -1,4 +1,4 @@
-# <img src="logo/logo.png" /> Persistate
+# <img src="logo/logo.png" /> Persistate<br />[![npm version](https://img.shields.io/npm/v/persistate.svg?style=flat)](https://www.npmjs.com/package/persistate) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#)
 
 Persistate lets you create a simple persistent state that you can subscribe to.
 It is similar to the state of React components.
